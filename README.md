@@ -1,6 +1,6 @@
 ## I am saying advance
 
-[ ] This Project is not Dynamic. It's static Project. I am trying to show how i implemented sslcommerz in my project and how it's work? You Can change data that's your need.
+> This Project is not Dynamic. It's static Project. I am trying to show how i implemented sslcommerz in my project and how it's work? You Can change data that's your need.
 
 ## Install Process
 
